@@ -1,0 +1,24 @@
+{
+    "name": "Your Theme Name",
+    "description": "Description of your theme",
+    "authors": [
+        {
+            "name": "Author Name",
+            "id": "1234567890"
+        }
+    ],
+    "semanticColors": {
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_600": "#1e1e1e"
+    },
+    "background": {
+        "blur": 0,
+        "url": "https://i.imgur.com/0qVvJOU.png",
+        "alpha": 1
+    },
+    "spec": 2
+}
