@@ -16,7 +16,7 @@
         "PRIMARY_600": "#1e1e1e"
     },
     "background": {
-        "blur": 0,
+        "blur": 1,
         "url": "https://raw.githubusercontent.com/AURAOXYYT6973/Gojo/refs/heads/main/IMG_1488.jpeg",
         "alpha": 1
     },
